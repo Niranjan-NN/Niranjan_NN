@@ -2,7 +2,7 @@
 <h3 align="center">Full-Stack Developer • AI/ML Enthusiast • Data Science Learner</h3>
 
 <p align="center">
-  🚀 Turning ideas into reality | 🧠 Building AI & Web Solutions | 💼 Founder of <b>CliDeal IT Solutions</b>  
+  🚀 Turning ideas into reality | 🧠 Building AI & Web Solutions | 💼 Co-Founder of <b>CliDeal IT Solutions</b>  
 </p>
 
 ---
