@@ -53,7 +53,6 @@ I enjoy building scalable applications, experimenting with ML models, and creati
 - Built responsive UI with optimized performance  
 - Collaborated with cross-functional teams to deliver impactful solutions  
 - **Tech:** React.js, Node.js, MongoDB, Git, Vercel  
-:contentReference[oaicite:2]{index=2}
 
 ---
 
@@ -63,7 +62,6 @@ I enjoy building scalable applications, experimenting with ML models, and creati
   B.Tech Information Technology • GPA: 8.22/10  
 - **Thambu Hr. Sec. School**  
   SSLC: 65% • HSC: 74%  
-:contentReference[oaicite:3]{index=3}
 
 ---
 
@@ -72,29 +70,23 @@ I enjoy building scalable applications, experimenting with ML models, and creati
 ### 🔹 **InnerPeaceAI 2.0 – Your Anxiety Counselor**  
 AI-powered mental health assistant built with Streamlit, Python, MongoDB & GenAI.  
 Improved conversational accuracy through user testing & feedback.  
-:contentReference[oaicite:4]{index=4}
 
 ### 🔹 **Stream360 – Real-Time Video Conferencing Platform**  
 A Google Meet–like app using ZegoCloud SDK & React.  
 Real-time video calls, room management & Node.js backend.  
-:contentReference[oaicite:5]{index=5}
 
 ### 🔹 **StartupStack – Tech Stack Discovery Platform**  
 MERN-based platform for exploring and filtering startup tech stacks.  
 Built interactive dashboards & bookmarking features.  
-:contentReference[oaicite:6]{index=6}
 
 ### 🔹 **RainVision CBE – Predictive Weather Insights**  
 Rainfall prediction for farmers & office workers using ML & Streamlit.  
-:contentReference[oaicite:7]{index=7}
 
 ### 🔹 **Aara – AI Image Recognition Chatbot**  
 Object detection and query-based image analysis tool.  
-:contentReference[oaicite:8]{index=8}
 
 ### 🔹 **FieastaIndiana – Tourism Platform**  
 A web platform showcasing India’s culture using React & Firebase.  
-:contentReference[oaicite:9]{index=9}
 
 ---
 
@@ -103,7 +95,6 @@ A web platform showcasing India’s culture using React & Firebase.
 - SQL, Machine Learning, Data Visualization, Python  
 - Excel, Artificial Intelligence, GenAI  
 - React.js  
-:contentReference[oaicite:10]{index=10}
 
 ---
 
@@ -115,7 +106,6 @@ A web platform showcasing India’s culture using React & Firebase.
   - Aquaculture Water Management System  
   - Smart Magnetic Phone Holder  
 - All Rounder Performer Nominee (2025)  
-:contentReference[oaicite:11]{index=11} :contentReference[oaicite:12]{index=12}
 
 ---
 
@@ -146,5 +136,3 @@ A web platform showcasing India’s culture using React & Firebase.
 </p>
 
 ---
-
-⭐ **If you like my work, consider starring my repositories!**
