@@ -12,8 +12,8 @@
 - 🔭 I’m currently working on **StartupStack – A platform to browse & analyze startup tech stacks**
 - 🌱 Learning **Express.js**, **Django**, and advanced **Node.js architecture**
 - 👯 Looking to collaborate on **AI tools, Web apps, and ML projects**
-- 💼 Founder @ **CliDeal** — providing AI, Web Development & Data Science services  
-- 📫 Reach me: **clidealitsolutions@gmail.com**
+- 💼 Co-Founder @ **CliDeal** — providing AI, Web Development & Data Science services  
+- 📫 Reach me: **niranjan87901@gmail.com**
 - ⚡ Fun fact: I'm a natural learner who loves solving problems and building useful products.
 
 ---
